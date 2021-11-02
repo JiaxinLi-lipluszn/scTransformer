@@ -1,9 +1,8 @@
 # scTransformer
 ## Scripts
 Standarize the code we have in the notebooks now:
-* Delete the unused parameters and 
-* Write README file and Add comments to the scripts
-* Specify the usage of each file
+* Delete the unused parameters and write documents of the input out parameters.
+* Write README file and Add comments to the scripts.
 
 Scripts to finish
 * [X] scDataLoader.py
